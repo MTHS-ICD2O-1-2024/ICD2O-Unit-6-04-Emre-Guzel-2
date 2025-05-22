@@ -1,5 +1,5 @@
 /* Created by: Emre Guzel
-* Created on: March 31 2025
+* Created on: May 22 2025
 * This file contains the CSS for index.html
 */
 
@@ -14,6 +14,18 @@ body {
   font-style: normal;
   background: skyblue;
   margin-left: 2rem;
+}
+
+.formula {
+  font-size: 3rem;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.formula-body {
+  font-size: 1.6rem;
+  font-weight: 400;
+  font-style: italic;
 }
 
 .dimatoins {
